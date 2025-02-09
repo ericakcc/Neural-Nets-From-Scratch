@@ -14,7 +14,6 @@ This project aims to implement various classic neural network architectures from
 
 ## Environment Setup
 
-bash
 pip install -r requirements.txt
 
 
